@@ -19,6 +19,13 @@ const x =1;
 const y =1;
 console.log(x+y);
 ```
+```java
+int x =1;
+int y =1;
+int z = x+y;
+System.out.print(z);
+```
+
 マークダウンを利用することにより、**素早く**構造化されたドキュ
 メントを作成することができる。
 ---
