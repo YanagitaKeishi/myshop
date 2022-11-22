@@ -19,6 +19,7 @@ const x =1;
 const y =1;
 console.log(x+y);
 ```
+## javaについて
 ```java
 int x =1;
 int y =1;
@@ -36,3 +37,6 @@ System.out.print(z);
 > Markdown（マークダウン）は、文書を記述するための軽量マーク
 アップ言語のひとつである。本来はプレーンテキスト形式で手軽に書
 いた文書からHTMLを生成するために開発されたものである。
+
+宣伝の
+[リンク](index.html)
